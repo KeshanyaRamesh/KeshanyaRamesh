@@ -41,19 +41,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=KeshanyaRamesh&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Keshanya's GitHub statistics"
-  />
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeshanyaRamesh&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used languages"
-  />
+  ...
 </p>
-
 ---
 
 ## 🐍 My Contribution Snake
