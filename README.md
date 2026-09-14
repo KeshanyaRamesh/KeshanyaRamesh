@@ -41,9 +41,18 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  ...
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeshanyaRamesh&theme=tokyonight"
+    alt="Keshanya's GitHub Statistics"
+  />
+
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeshanyaRamesh&theme=tokyonight"
+    alt="Keshanya's Top Languages"
+  />
 </p>
----
 
 ## 🐍 My Contribution Snake
 
