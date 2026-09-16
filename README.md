@@ -10,14 +10,14 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=BSc+(Hons)+Information+Technology+Undergraduate;Aspiring+IT+Professional;Software+and+Full-Stack+Web+Developer;Interested+in+QA%2C+Databases+and+IT+Support;Building+AI-Powered+Web+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=780&lines=BSc+(Hons)+Information+Technology+Undergraduate;Aspiring+IT+Professional;Software+and+Full-Stack+Web+Developer;Interested+in+QA%2C+Databases+and+IT+Support;Building+AI-Powered+Web+Applications"
     alt="Animated professional introduction"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=KeshanyaRamesh&label=Profile%20Views&color=2196F3&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=KeshanyaRamesh&label=PROFILE+VIEWS&color=2196F3&style=for-the-badge"
     alt="Profile views"
   />
 </p>
@@ -29,15 +29,15 @@
 I am a **BSc (Hons) Information Technology undergraduate** at the  
 **University of Vavuniya, Sri Lanka**.
 
-I enjoy creating practical applications, learning new technologies and solving real-world problems through IT.
+I enjoy building practical applications, learning new technologies and solving real-world problems through Information Technology.
 
 - 🎓 Final-year Information Technology undergraduate
 - 💻 Interested in software and full-stack web development
 - 🧪 Interested in software testing and quality assurance
 - 🗄️ Experienced with relational and NoSQL databases
-- 🤖 Building web applications with AI API integrations
+- 🤖 Building applications with AI API integrations
 - 🌐 Familiar with frontend, backend and REST API development
-- 🛠️ Open to IT support and technical roles
+- 🛠️ Open to IT support and other technical roles
 - 📊 Interested in systems and business analysis
 - 🎯 Currently seeking an IT internship opportunity
 - 🌱 Continuously improving my technical and professional skills
@@ -66,7 +66,7 @@ I enjoy creating practical applications, learning new technologies and solving r
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=js,java,python,c,php"
-    alt="Programming languages"
+    alt="JavaScript, Java, Python, C and PHP"
   />
 </p>
 
@@ -75,7 +75,7 @@ I enjoy creating practical applications, learning new technologies and solving r
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"
-    alt="Frontend technologies"
+    alt="HTML, CSS, React, Tailwind and Bootstrap"
   />
 </p>
 
@@ -84,7 +84,7 @@ I enjoy creating practical applications, learning new technologies and solving r
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=nodejs,express,spring"
-    alt="Backend technologies"
+    alt="Node.js, Express.js and Spring Boot"
   />
 </p>
 
@@ -93,7 +93,7 @@ I enjoy creating practical applications, learning new technologies and solving r
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=mysql,mongodb"
-    alt="Database technologies"
+    alt="MySQL and MongoDB"
   />
 </p>
 
@@ -102,7 +102,7 @@ I enjoy creating practical applications, learning new technologies and solving r
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase,vite,npm"
-    alt="Development tools"
+    alt="Development tools and platforms"
   />
 </p>
 
@@ -120,103 +120,69 @@ I enjoy creating practical applications, learning new technologies and solving r
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌲 ForestGuard</h3>
-      <p>
-        AI-powered forest monitoring and management system with forest-area,
-        officer and inspection management features.
-      </p>
-      <p>
-        <strong>Technologies:</strong> React, Node.js, Express.js, MongoDB and Gemini AI
-      </p>
-      <a href="https://github.com/KeshanyaRamesh/Forest_AI_System">
-        View Repository
-      </a>
-    </td>
+### 🌲 ForestGuard — AI Forest Management System
 
-    <td width="50%" valign="top">
-      <h3>👗 Enchanted Atelier</h3>
-      <p>
-        AI-powered fashion application that generates personalized dress
-        concepts based on user-selected preferences.
-      </p>
-      <p>
-        <strong>Technologies:</strong> React, Node.js, Express.js, MongoDB and Gemini AI
-      </p>
-      <a href="https://github.com/KeshanyaRamesh/EnchantedFashion">
-        View Repository
-      </a>
-    </td>
-  </tr>
+AI-powered forest monitoring platform with forest-area, officer, inspection and AI image-analysis features.
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏗️ Smart Construction Manager</h3>
-      <p>
-        Construction project management application with project, task,
-        worker, material, expense and AI-analysis features.
-      </p>
-      <p>
-        <strong>Technologies:</strong> React, Tailwind CSS and Local Storage
-      </p>
-      <a href="https://github.com/KeshanyaRamesh/smart-construction-manager">
-        View Repository
-      </a>
-    </td>
+**Technologies:** React.js • Node.js • Express.js • MongoDB • Gemini AI
 
-    <td width="50%" valign="top">
-      <h3>🏥 Hospital Management</h3>
-      <p>
-        Healthcare appointment system with doctor discovery, booking,
-        appointment tracking and user-profile features.
-      </p>
-      <p>
-        <strong>Technologies:</strong> React, React Router and Local Storage
-      </p>
-      <a href="https://github.com/KeshanyaRamesh/Hospital_management">
-        View Repository
-      </a>
-    </td>
-  </tr>
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KeshanyaRamesh/Forest_AI_System)
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💼 Career Guidance Hub</h3>
-      <p>
-        Career and internship guidance platform designed to help students
-        discover suitable professional opportunities.
-      </p>
-      <p>
-        <strong>Focus:</strong> Career development and internship management
-      </p>
-      <a href="https://github.com/KeshanyaRamesh/internshipProject">
-        View Repository
-      </a>
-    </td>
+---
 
-    <td width="50%" valign="top">
-      <h3>🌐 Personal Portfolio</h3>
-      <p>
-        Responsive personal portfolio presenting my education, technical
-        skills, projects and contact information.
-      </p>
-      <p>
-        <strong>Technologies:</strong> React, CSS and responsive design
-      </p>
-      <a href="https://github.com/KeshanyaRamesh/my-portfolio">
-        View Repository
-      </a>
-    </td>
-  </tr>
-</table>
+### 👗 Enchanted Atelier — AI Fashion Application
+
+Personalized fashion-design application that generates dress concepts according to user-selected preferences.
+
+**Technologies:** React.js • Node.js • Express.js • MongoDB • Gemini AI
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KeshanyaRamesh/EnchantedFashion)
+
+---
+
+### 🏗️ Smart Construction Project Manager
+
+Construction-management platform with projects, tasks, materials, expenses, workers and AI-powered project analysis.
+
+**Technologies:** React.js • Tailwind CSS • Local Storage
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KeshanyaRamesh/smart-construction-manager)
+
+---
+
+### 🏥 Healthcare Appointment System
+
+Healthcare application with doctor search, appointment booking, appointment tracking, authentication and user-profile features.
+
+**Technologies:** React.js • React Router • Local Storage
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KeshanyaRamesh/Hospital_management)
+
+---
+
+### 💼 Career Guidance and Internship Hub
+
+Career-development platform designed to help university students discover internship and employment opportunities.
+
+**Focus:** Career Guidance • Internship Management • Student Development
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KeshanyaRamesh/internshipProject)
+
+---
+
+### 🌐 Personal Portfolio
+
+Responsive personal portfolio showcasing my education, technical skills, projects and contact information.
+
+**Technologies:** React.js • CSS • Responsive Design
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KeshanyaRamesh/my-portfolio)
 
 <p align="center">
   <a href="https://github.com/KeshanyaRamesh?tab=repositories">
     <img
-      src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View all repositories"
+      src="https://img.shields.io/badge/Explore_All_Projects-2196F3?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore all projects"
     />
   </a>
 </p>
@@ -249,7 +215,19 @@ I enjoy creating practical applications, learning new technologies and solving r
 
 ---
 
-## 🐍 Contribution Activity
+## 🌌 3D Contribution Activity
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="Keshanya's 3D contribution graph"
+  />
+</p>
+
+---
+
+## 🐍 Animated Contribution Snake
 
 <p align="center">
   <picture>
@@ -262,7 +240,7 @@ I enjoy creating practical applications, learning new technologies and solving r
       srcset="https://raw.githubusercontent.com/KeshanyaRamesh/KeshanyaRamesh/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="Keshanya's contribution snake"
+      alt="Keshanya's animated contribution snake"
       src="https://raw.githubusercontent.com/KeshanyaRamesh/KeshanyaRamesh/output/github-contribution-grid-snake.svg"
     />
   </picture>
@@ -277,13 +255,6 @@ I enjoy creating practical applications, learning new technologies and solving r
     <img
       src="https://img.shields.io/badge/GitHub-KeshanyaRamesh-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Keshanya_Ramesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
     />
   </a>
 </p>
