@@ -256,15 +256,7 @@ Responsive portfolio showcasing my education, technical skills, projects and con
 
 ---
 
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KeshanyaRamesh&theme=tokyo-night&hide_border=true&area=true&custom_title=Keshanya%20Ramesh%27s%20Contribution%20Graph"
-    alt="Contribution activity graph"
-  />
-</p>
+ 
 
 ## 🌌 3D Contribution Activity
 
