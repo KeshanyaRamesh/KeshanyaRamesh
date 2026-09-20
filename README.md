@@ -254,6 +254,8 @@ Responsive portfolio showcasing my education, technical skills, projects and con
 
 ---
 
+---
+
 ## 📈 Contribution Activity Graph
 
 <p align="center">
@@ -263,8 +265,6 @@ Responsive portfolio showcasing my education, technical skills, projects and con
     alt="Contribution activity graph"
   />
 </p>
-
----
 
 ## 🌌 3D Contribution Activity
 
